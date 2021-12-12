@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fin93
-- 👀 I’m interested in coding python (badly) and ai, minimax deeplearning!
+- 👀 I’m interested in coding python (badly)
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on um, anything
 - 📫 How to reach me, if there is a special message thing for github msg me like that
