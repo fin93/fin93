@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fin93
+- 👋 Hi, I’m @be
 - 👀 I’m interested in coding python (badly)
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on um, anything
